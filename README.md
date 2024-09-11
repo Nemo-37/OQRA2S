@@ -1,4 +1,4 @@
-# Optional Quick Response Air Safety System - OQRA2S
+# Optional Quick Response Safety System - OQR2S
 
 This project was devised to solve the problem of human safety in hard-to-reach places and more. This project is a complex of various systems that provides the ability to have increased safety in various situations. The project involves working in completely different places and “elements”.
 
